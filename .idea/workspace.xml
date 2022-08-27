@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baacdb2c-98b3-4915-9ff6-c71ab300d430" name="Default Changelist" comment="" />
+    <list default="true" id="baacdb2c-98b3-4915-9ff6-c71ab300d430" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -29,6 +39,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Diazih1cMa9oIfDMpmcFFF1rXU" />
   <component name="ProjectViewState">
@@ -64,7 +77,7 @@
   <component name="RunManager" selected="Application.SpringBootTutorialApplication (1)">
     <configuration name="SpringBootTutorialApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kongheng.springboot.tutorial.SpringBootTutorialApplication" />
-      <module name="spring-boot-tutorial" />
+      <module name="Spring - Dalily Code Buffer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kongheng.springboot.tutorial.*" />
